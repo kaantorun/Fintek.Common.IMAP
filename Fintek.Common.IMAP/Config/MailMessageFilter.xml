@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<Filters>
+<Filter>
+  <From>mgunes@fintek.com.tr</From>
+  <Subject></Subject>
+  <FileName></FileName>
+  <DestinationPath>c:\</DestinationPath>
+</Filter>
+<Filter>
+  <From>bmaden@fintek.com.tr</From>
+  <Subject></Subject>
+  <FileName></FileName>
+  <DestinationPath>D:\</DestinationPath>
+</Filter>
+</Filters>
